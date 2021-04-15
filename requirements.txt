@@ -17,8 +17,4 @@ threadpoolctl==2.1.0
 urllib3==1.25.9
 Werkzeug==1.0.1
 wincertstore==0.2
-<<<<<<< HEAD
 gunicorn
-=======
-gunicorn
->>>>>>> 4c9f3ea46b13302db5acb3e9057d4262314f23ef
